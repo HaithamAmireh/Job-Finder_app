@@ -19,7 +19,7 @@ def Searched(text):
     #Click on the Search 
     #and input text
     opt = webdriver.ChromeOptions()
-    #opt.add_argument('headless')
+    opt.add_argument('headless')
     browser = webdriver.Chrome('chromedriver',options=opt)
     browser.get(url1)
     browser.find_element_by_xpath('//*[@id="input-focus"]').send_keys(JobSearched)
