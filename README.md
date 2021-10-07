@@ -1,6 +1,9 @@
 # Job-Finder_app
 
 This is an app that will scrape a job listing website based on the user searched title and return the results.
+
+![job-finder](https://user-images.githubusercontent.com/70890685/136371801-d74a6bd8-160a-429a-a751-f2b290cd282f.gif)
+
 ![app1](https://user-images.githubusercontent.com/70890685/131971931-190459e9-5f98-428d-bb45-86a9c1066aaf.PNG)
 ![app2](https://user-images.githubusercontent.com/70890685/131972038-60f68447-890e-4a2f-81fe-33b423907d58.PNG)
 
